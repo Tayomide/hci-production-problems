@@ -7,38 +7,38 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* Begin site styles below */
-@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@200&family=Source+Sans+Pro:ital,wght@1,200&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@200&family=Source+Sans+Pro:ital,wght@1,200&display=swap");
 
 
-*{
+* {
   font-size: 1em;
-  line-height: 1.2em
+  line-height: 1.2em;
 }
-h1{
+h1 {
   font-size: 2em;
   line-height: 2.4em;
-  font-family: 'Roboto', 'Roboto Slab', sans-serif, serif;
+  font-family: Roboto, "Roboto Slab", sans-serif, serif;
 }
-h2{
+h2 {
   font-size: 1.8333em;
   line-height: 2em;
-  font-family: 'Roboto', 'Roboto Slab', sans-serif, serif;
+  font-family: Roboto, "Roboto Slab", sans-serif, serif;
 }
 
-p{
-  font-family: 'IBM Plex Sans Thai Looped', 'Source Sans Pro', sans-serif;
+p {
+  font-family: "IBM Plex Sans Thai Looped", "Source Sans Pro", sans-serif;
 }
 
-p ~ p{
+p ~ p {
   padding-top: 1.2em;
 }
 
-main, header{
+main, header {
   width: 80%;
   margin: 0 auto;
 }
 
-section ~ section{
+section ~ section {
   padding-top: 1.2em;
 }
