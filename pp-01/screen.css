@@ -38,3 +38,7 @@ main, header{
   width: 80%;
   margin: 0 auto;
 }
+
+section ~ section{
+  padding-top: 1.2em;
+}
