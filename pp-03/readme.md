@@ -37,7 +37,7 @@ Asking for address felt like taking advantage of the users ignorance on the impo
 2. An explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guideline One (URL):
+* HCI Guideline One (URL): https://developer.apple.com/design/human-interface-guidelines/ios/bars/tab-bars/
 * Describe how you implemented that guideline in your sketch:
 
 * HCI Guideline Two (URL):
