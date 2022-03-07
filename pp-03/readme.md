@@ -27,6 +27,9 @@ Small commits to your Production Problems repository that include:
    Looking at the website I immediately saw a lot that was wrong with it without needing the HCI guidelines. After checking the HCI guidelines I found out it focuses more on the users experience and not redundant data hence I took some things out before applying the IOS HCI guidelines. BElow are the following data that was removed or updated:
 
    I removed the login section as there is already a login page dedicated for login
+   I removed the address section as the user has to go to the museum and not the museum coming to the user.
+Asking for address felt like taking advantage of the users ignorance on the importance of the data in creating an account.
+  
 
 1. Photographs of sketches of your new design, from your sketchbook, or digital sketches
 2. An explanation of three different points of guidance from your chosen guidelines (point to the
