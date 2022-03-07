@@ -29,7 +29,7 @@ Small commits to your Production Problems repository that include:
    I removed the login section as there is already a login page dedicated for login
    I removed the address section as the user has to go to the museum and not the museum coming to the user.
 Asking for address felt like taking advantage of the users ignorance on the importance of the data in creating an account.
-  
+   I updated the account creation section with the least amount of data needed for a user to be uniquely identified while also able to book an appointment with the museum.
 
 1. Photographs of sketches of your new design, from your sketchbook, or digital sketches
 2. An explanation of three different points of guidance from your chosen guidelines (point to the
