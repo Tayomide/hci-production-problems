@@ -43,7 +43,7 @@ Asking for address felt like taking advantage of the users ignorance on the impo
   tab bars in websites should be at the top as the bottom of the browser already has buttons that could cause uncomfortable user experience if mashed together.
   I made a header to act as the tab bar and placed it at the top. I also added a content to the header but since I was limited to login it was only a tab to the home page.
 
-* HCI Guideline Two (URL):
+* HCI Guideline Two (URL): https://developer.apple.com/design/human-interface-guidelines/ios/views/text-views/
 * Describe how you implemented that guideline in your sketch:
 
 * HCI Guideline Three (URL):
