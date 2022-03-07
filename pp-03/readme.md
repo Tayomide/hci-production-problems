@@ -24,6 +24,8 @@ Choose from either Apple’s or Google’s design guidelines:
 ## Deliverables
 
 Small commits to your Production Problems repository that include:
+   Looking at the website I immediately saw a lot that was wrong with it without needing the HCI guidelines. After checking the HCI guidelines I found out it focuses more on the users experience and not redundant data hence I took some things out before applying the IOS HCI guidelines. BElow are the following data that was removed or updated:
+
 
 1. Photographs of sketches of your new design, from your sketchbook, or digital sketches
 2. An explanation of three different points of guidance from your chosen guidelines (point to the
