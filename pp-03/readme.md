@@ -39,6 +39,9 @@ Asking for address felt like taking advantage of the users ignorance on the impo
 
 * HCI Guideline One (URL): https://developer.apple.com/design/human-interface-guidelines/ios/bars/tab-bars/
 * Describe how you implemented that guideline in your sketch:
+  From the book "Designing for Touch", I learnt that although tab bars can be on the bottom in apps as shown in the link above,
+  tab bars in websites should be at the top as the bottom of the browser already has buttons that could cause uncomfortable user experience if mashed together.
+  I made a header to act as the tab bar and placed it at the top. I also added a content to the header but since I was limited to login it was only a tab to the home page.
 
 * HCI Guideline Two (URL):
 * Describe how you implemented that guideline in your sketch:
