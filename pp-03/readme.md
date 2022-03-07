@@ -31,6 +31,7 @@ Small commits to your Production Problems repository that include:
 Asking for address felt like taking advantage of the users ignorance on the importance of the data in creating an account.
    I updated the account creation section with the least amount of data needed for a user to be uniquely identified while also able to book an appointment with the museum.
    I updated the footer by making each link both accessible and interactive.
+   I kept the logo at the header as that gives information about the site and can be used as a navigational link for the home page which does not need a registered user to access.
 
 1. Photographs of sketches of your new design, from your sketchbook, or digital sketches
 2. An explanation of three different points of guidance from your chosen guidelines (point to the
