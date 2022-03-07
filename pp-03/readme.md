@@ -48,7 +48,8 @@ Asking for address felt like taking advantage of the users ignorance on the impo
   Although executed perfectly I made sure to preserve the text legibility and format as it is easy to loose track of that when removing a lot of the inputs and a huge chunk of the form.
 
 * HCI Guideline Three (URL): https://developer.apple.com/design/human-interface-guidelines/ios/views/scroll-views/
-* Describe how you implemented that guideline in your sketch:
+* Describe how you implemented that guideline in your sketch: With a lot of position sticky it is easy for the user to have a very uncomfortable and alien scrolling experience.
+  To avoid that I removed the side bars while making the content have a predefined one-track flow with the only scroll element being the body. 
 
 For the Production Problem discussion next week, be sure to share your sketches and chosen
 guidelines.
