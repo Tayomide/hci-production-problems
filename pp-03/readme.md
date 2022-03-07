@@ -45,6 +45,7 @@ Asking for address felt like taking advantage of the users ignorance on the impo
 
 * HCI Guideline Two (URL): https://developer.apple.com/design/human-interface-guidelines/ios/views/text-views/
 * Describe how you implemented that guideline in your sketch:
+  Although executed perfectly I made sure to preserve the text legibility and format as it is easy to loose track of that when removing a lot of the inputs and a huge chunk of the form.
 
 * HCI Guideline Three (URL):
 * Describe how you implemented that guideline in your sketch:
