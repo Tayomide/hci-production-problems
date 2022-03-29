@@ -54,8 +54,7 @@ strengths. Prior to creating the `self-intro` branch, be sure to pull from the r
 pull upstream main`) to get any other team members’ names and strengths. Add and commit your own
 work, and push to your own repository (`git push origin self-intro`).
 
-Copy and paste the URL of your pull request here: https://github.com/Tayomide/project-2/commit/32161a926f2c5683aeada3000503571875cf3e99
-Note: There is no pull request because it has already been pulled and merged
+Copy and paste the URL of your pull request here: https://github.com/hci-code-monkeys/project-2/pull/3
 
 9. Finally, within your fork of the repository on GitHub, open up a pull request from your
 `self-intro` branch to `main` branch in the shared  repository. Each team member should review the
